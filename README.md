@@ -2,4 +2,4 @@
 
 ## Summary 
 
-This repository contains all of the notes taken by Alan Wu for the Lighthouse Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [Alan Wu](https://github.com/ASynapz) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
